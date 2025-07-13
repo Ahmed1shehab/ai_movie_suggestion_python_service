@@ -1,7 +1,3 @@
-A README should quickly and effectively communicate what your project is, how to use it, and what it offers. Here's a refined version of your README, focusing on clarity, conciseness, and user-friendliness, while incorporating the current date.
-
------
-
 # 🎬 AI Movie Suggestion Microservice
 
 This **FastAPI** microservice provides AI-powered movie recommendations based on user prompts. It leverages **Hugging Face transformers** to extract movie names from natural language input and enriches the suggestions with detailed movie metadata fetched from **The Movie Database (TMDb) API**.
